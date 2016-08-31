@@ -11,4 +11,4 @@ ps命令的封装，shell的第一个参数是keyword用于ps的grep key。查�
 
 使用方法：
 
-建议用alias重命名脚本，并加入到bash_profile中，这样即可以以命令的方式启动，例如samps [args]
+建议用alias重命名脚本，并加入到bash_profile中，这样即可以以命令的方式启动，例如：samps [args]
